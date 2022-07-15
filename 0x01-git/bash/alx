@@ -1,6 +1,6 @@
 #!/bin/bash
 <<<<<<< HEAD
-echo "ALX School is so cool!"
+echo "The school is open!
 
 
 
@@ -18,5 +18,5 @@ echo "ALX School is so cool!"
 
 
 =======
-echo "ALX School is so cool!"
+echo "The School is open!"
 >>>>>>> master
